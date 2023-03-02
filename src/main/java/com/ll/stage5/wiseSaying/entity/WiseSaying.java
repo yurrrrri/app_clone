@@ -1,4 +1,4 @@
-package com.ll.stage5;
+package com.ll.stage5.wiseSaying.entity;
 
 public class WiseSaying {
     private long id;
